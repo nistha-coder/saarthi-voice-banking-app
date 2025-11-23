@@ -1,0 +1,30 @@
+{
+  "atmCards": [
+    {
+      "cardNumber": "1234567890125678",
+      "cardType": "Debit",
+      "bank": "State Bank",
+      "expiryDate": "12/25",
+      "cvv": "123",
+      "isActive": true
+    }
+  ],
+  "atmLocations": [
+    {
+      "id": "ATM001",
+      "bank": "State Bank",
+      "address": "MG Road, Bangalore",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "availableServices": ["withdrawal", "deposit", "balance_inquiry"]
+    },
+    {
+      "id": "ATM002",
+      "bank": "State Bank",
+      "address": "Brigade Road, Bangalore",
+      "latitude": 12.9698,
+      "longitude": 77.6025,
+      "availableServices": ["withdrawal", "balance_inquiry"]
+    }
+  ]
+}

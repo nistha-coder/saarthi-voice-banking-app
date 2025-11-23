@@ -1,0 +1,58 @@
+{
+  "transactions": [
+    {
+      "id": "txn_001",
+      "mobile": "9876543210",
+      "type": "credit",
+      "amount": 10000,
+      "description": "Salary credited",
+      "date": "2025-01-01T09:00:00.000Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_002",
+      "mobile": "9876543210",
+      "type": "debit",
+      "amount": 500,
+      "description": "ATM withdrawal",
+      "date": "2025-01-05T14:30:00.000Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_003",
+      "mobile": "9876543210",
+      "type": "debit",
+      "amount": 1200,
+      "description": "Online shopping",
+      "date": "2025-01-10T18:45:00.000Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_004",
+      "mobile": "9876543210",
+      "type": "credit",
+      "amount": 3000,
+      "description": "Refund received",
+      "date": "2025-01-12T11:20:00.000Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_1763282885337_1",
+      "mobile": "9102087004",
+      "type": "credit",
+      "amount": 5000,
+      "description": "Salary credited",
+      "date": "2025-11-16T08:48:05.337Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_1763282885337_2",
+      "mobile": "9102087004",
+      "type": "debit",
+      "amount": 500,
+      "description": "ATM withdrawal",
+      "date": "2025-11-15T08:48:05.337Z",
+      "status": "completed"
+    }
+  ]
+}

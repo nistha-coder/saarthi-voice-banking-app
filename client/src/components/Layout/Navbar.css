@@ -1,0 +1,46 @@
+/* Navbar.css - add this or include in your global CSS */
+.nav-shell {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 24px;
+  background: white;
+  border-bottom: 1px solid rgba(0,0,0,0.06);
+  position: sticky;
+  top: 0;
+  z-index: 40;
+}
+
+.brand { font-weight: 700; color: #5b21b6; font-size: 20px; text-decoration: none; }
+
+.nav-center a { margin: 0 12px; color: #333; text-decoration: none; }
+
+.nav-right { display: flex; align-items: center; gap: 12px; }
+
+.nav-pill { background: #6d28d9; color: white; padding: 8px 12px; border-radius: 20px; text-decoration: none; }
+.nav-pill-outline { border: 1px solid #6d28d9; color: #6d28d9; padding: 8px 12px; border-radius: 20px; text-decoration: none; }
+
+.reminder-bell-wrapper { position: relative; }
+.reminder-bell { background: transparent; border: none; cursor: pointer; font-size: 18px; position: relative; padding: 8px; color: #374151; }
+.reminder-count { position: absolute; top: 2px; right: 2px; background: #ef4444; color: white; font-size: 11px; padding: 2px 6px; border-radius: 12px; }
+
+.reminder-dropdown {
+  position: absolute;
+  right: 0;
+  top: 42px;
+  width: 320px;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 10px 30px rgba(2,6,23,0.08);
+  overflow: hidden;
+  z-index: 50;
+}
+
+.reminder-dropdown-head { padding: 12px 16px; border-bottom: 1px solid #f1f5f9; }
+.reminder-list { max-height: 260px; overflow: auto; padding: 8px 0; }
+.reminder-item { padding: 10px 14px; display: flex; gap: 12px; border-bottom: 1px dashed rgba(0,0,0,0.03); }
+.reminder-item .meta .title { font-weight: 600; color: #111827; }
+.reminder-item .meta .time { font-size: 13px; color: #6b7280; }
+.reminder-footer { padding: 10px 12px; border-top: 1px solid #f1f5f9; text-align: right; }
+.view-all { color: #2563eb; text-decoration: none; font-weight: 600; }
+.empty { padding: 12px; color: #6b7280; text-align: center; }

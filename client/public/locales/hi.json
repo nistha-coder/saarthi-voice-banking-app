@@ -1,0 +1,137 @@
+{
+  "common": {
+    "appName": "सारथी",
+    "loading": "लोड हो रहा है...",
+    "submit": "जमा करें",
+    "cancel": "रद्द करें",
+    "confirm": "पुष्टि करें",
+    "close": "बंद करें",
+    "error": "त्रुटि",
+    "success": "सफलता"
+  },
+  "auth": {
+    "signup": "साइन अप करें",
+    "login": "लॉगिन करें",
+    "logout": "लॉगआउट",
+    "mobileNumber": "मोबाइल नंबर",
+    "enterMobile": "मोबाइल नंबर दर्ज करें",
+    "enterOtp": "OTP दर्ज करें",
+    "otp": "OTP",
+    "voiceEnrollment": "आवाज़ पंजीकरण",
+    "voiceVerification": "आवाज़ सत्यापन",
+    "recordVoice": "अपनी आवाज़ रिकॉर्ड करें",
+    "startRecording": "रिकॉर्डिंग शुरू करें",
+    "stopRecording": "रिकॉर्डिंग बंद करें",
+    "recordAgain": "फिर से रिकॉर्ड करें",
+    "voiceNotMatching": "आवाज़ मेल नहीं खा रही। कृपया फिर से कहें।",
+    "voiceRecorded": "आवाज़ सफलतापूर्वक रिकॉर्ड की गई",
+    "signupSuccess": "साइन अप सफल! कृपया लॉगिन करें।",
+    "loginSuccess": "लॉगिन सफल!",
+    "alreadyHaveAccount": "पहले से खाता है?",
+    "dontHaveAccount": "खाता नहीं है?"
+  },
+  "dashboard": {
+    "welcome": "स्वागत है",
+    "bankBalance": "बैंक बैलेंस",
+    "myFds": "मेरी फिक्स्ड डिपॉजिट",
+    "myLoans": "मेरे ऋण",
+    "recentTransactions": "हाल के लेन-देन",
+    "noTransactions": "अभी तक कोई लेन-देन नहीं",
+    "linkAtmPrompt": "भुगतान करने के लिए अपना ATM लिंक करें",
+    "setMpinPrompt": "भुगतान करने के लिए mPIN सेट करें",
+    "viewAll": "सभी देखें"
+  },
+  "transactions": {
+    "credit": "क्रेडिट",
+    "debit": "डेबिट",
+    "amount": "राशि",
+    "description": "विवरण",
+    "date": "तारीख",
+    "status": "स्थिति"
+  },
+  "navigation": {
+    "home": "होम",
+    "profile": "प्रोफ़ाइल",
+    "history": "इतिहास",
+    "faq": "सामान्य प्रश्न",
+    "settings": "सेटिंग्स",
+    "linkAtm": "ATM लिंक करें"
+  },
+  "atm": {
+    "linkAtm": "ATM कार्ड लिंक करें",
+    "cardNumber": "कार्ड नंबर",
+    "expiryDate": "समाप्ति तिथि",
+    "cvv": "CVV",
+    "enterCardNumber": "16 अंकों का कार्ड नंबर दर्ज करें",
+    "enterExpiry": "MM/YY",
+    "enterCvv": "CVV दर्ज करें",
+    "linkSuccess": "ATM कार्ड सफलतापूर्वक लिंक किया गया!"
+  },
+  "mpin": {
+    "enterMpin": "mPIN दर्ज करें",
+    "setMpin": "mPIN सेट करें",
+    "mpin": "mPIN",
+    "enterFourDigit": "4 अंकों का mPIN दर्ज करें",
+    "confirmMpin": "mPIN की पुष्टि करें",
+    "mpinMismatch": "mPIN मेल नहीं खाता",
+    "mpinSet": "mPIN सफलतापूर्वक सेट किया गया!",
+    "mpinRequired": "इस कार्रवाई के लिए mPIN आवश्यक है"
+  },
+  "voiceAssistant": {
+    "greeting": "मैं आपकी कैसे मदद कर सकता हूं?",
+    "listening": "सुन रहा हूं...",
+    "processing": "प्रसंस्करण...",
+    "startListening": "सुनना शुरू करें",
+    "stopListening": "सुनना बंद करें",
+    "sayAgain": "फिर से कहें",
+    "unknownUser": "अज्ञात उपयोगकर्ता का पता चला। कृपया फिर से कहें।",
+    "voiceCheckFailed": "आवाज़ सत्यापन विफल"
+  },
+  "profile": {
+    "myProfile": "मेरी प्रोफ़ाइल",
+    "name": "नाम",
+    "mobile": "मोबाइल",
+    "voiceEnrolled": "आवाज़ पंजीकृत",
+    "atmLinked": "ATM लिंक किया",
+    "mpinSet": "mPIN सेट",
+    "memberSince": "सदस्य बने"
+  },
+  "faq": {
+    "title": "अक्सर पूछे जाने वाले प्रश्न",
+    "askQuestion": "एक प्रश्न पूछें...",
+    "search": "खोजें"
+  },
+  "errors": {
+    "networkError": "नेटवर्क त्रुटि। कृपया पुनः प्रयास करें।",
+    "voiceError": "आवाज़ रिकॉर्डिंग त्रुटि। कृपया पुनः प्रयास करें।",
+    "authError": "प्रमाणीकरण विफल",
+    "serverError": "सर्वर त्रुटि। कृपया बाद में पुनः प्रयास करें।"
+  },
+  "landing": {
+    "heroTitle": "आपकी आवाज़ से बैंकिंग आसान",
+    "heroSubtitle": "वॉइस बायोमेट्रिक सुरक्षा और AI सहायता के साथ बैंकिंग का भविष्य अनुभव करें",
+    "getStarted": "शुरू करें",
+    "aboutTitle": "सारथी के बारे में",
+    "aboutDescription": "सारथी एक क्रांतिकारी वॉइस-फर्स्ट बैंकिंग साथी है जो आपको सबसे सुरक्षित और सुविधाजनक अनुभव प्रदान करने के लिए उन्नत वॉइस बायोमेट्रिक्स और AI सहायता को जोड़ता है।",
+    "feature1Title": "वॉइस बायोमेट्रिक सुरक्षा",
+    "feature1Desc": "आपकी आवाज़ ही आपका पासवर्ड है। उन्नत वॉइस पहचान तकनीक का उपयोग करके सुरक्षित प्रमाणीकरण।",
+    "feature2Title": "AI वॉइस असिस्टेंट",
+    "feature2Desc": "केवल स्वाभाविक रूप से बोलकर तुरंत सहायता प्राप्त करें और लेनदेन करें।",
+    "feature3Title": "द्विभाषी समर्थन",
+    "feature3Desc": "ऐप को अंग्रेजी या हिंदी में उपयोग करें - जो भी आप सहज महसूस करें।",
+    "feature4Title": "तेज़ और सुरक्षित",
+    "feature4Desc": "AI द्वारा संचालित बैंक-ग्रेड सुरक्षा के साथ त्वरित लेनदेन।",
+    "howItWorks": "यह कैसे काम करता है",
+    "step1Title": "आवाज़ से साइन अप करें",
+    "step1Desc": "अपने अद्वितीय वॉइस पैटर्न को सुरक्षित रूप से पंजीकृत करें",
+    "step2Title": "अपना ATM लिंक करें",
+    "step2Desc": "अपने बैंक खाते को सुरक्षित रूप से जोड़ें",
+    "step3Title": "अपना mPIN सेट करें",
+    "step3Desc": "सुरक्षा की एक अतिरिक्त परत जोड़ें",
+    "step4Title": "बैंकिंग शुरू करें",
+    "step4Desc": "सभी लेनदेन के लिए वॉइस कमांड का उपयोग करें",
+    "ctaTitle": "शुरू करने के लिए तैयार हैं?",
+    "ctaSubtitle": "बैंकिंग के भविष्य का अनुभव कर रहे हजारों उपयोगकर्ताओं में शामिल हों",
+    "footer": "© 2024 सारथी। सर्वाधिकार सुरक्षित।"
+  }
+}

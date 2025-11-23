@@ -1,0 +1,137 @@
+{
+  "common": {
+    "appName": "Saarthi",
+    "loading": "Loading...",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "close": "Close",
+    "error": "Error",
+    "success": "Success"
+  },
+  "auth": {
+    "signup": "Sign Up",
+    "login": "Login",
+    "logout": "Logout",
+    "mobileNumber": "Mobile Number",
+    "enterMobile": "Enter mobile number",
+    "enterOtp": "Enter OTP",
+    "otp": "OTP",
+    "voiceEnrollment": "Voice Enrollment",
+    "voiceVerification": "Voice Verification",
+    "recordVoice": "Record Your Voice",
+    "startRecording": "Start Recording",
+    "stopRecording": "Stop Recording",
+    "recordAgain": "Record Again",
+    "voiceNotMatching": "Voice not matching. Please say again.",
+    "voiceRecorded": "Voice recorded successfully",
+    "signupSuccess": "Signup successful! Please login.",
+    "loginSuccess": "Login successful!",
+    "alreadyHaveAccount": "Already have an account?",
+    "dontHaveAccount": "Don't have an account?"
+  },
+  "dashboard": {
+    "welcome": "Welcome",
+    "bankBalance": "Bank Balance",
+    "myFds": "My Fixed Deposits",
+    "myLoans": "My Loans",
+    "recentTransactions": "Recent Transactions",
+    "noTransactions": "No transactions yet",
+    "linkAtmPrompt": "Start by linking your ATM to make payments",
+    "setMpinPrompt": "Set a mPIN to make payments",
+    "viewAll": "View All"
+  },
+  "transactions": {
+    "credit": "Credit",
+    "debit": "Debit",
+    "amount": "Amount",
+    "description": "Description",
+    "date": "Date",
+    "status": "Status"
+  },
+  "navigation": {
+    "home": "Home",
+    "profile": "Profile",
+    "history": "History",
+    "faq": "FAQ",
+    "settings": "Settings",
+    "linkAtm": "Link ATM"
+  },
+  "atm": {
+    "linkAtm": "Link ATM Card",
+    "cardNumber": "Card Number",
+    "expiryDate": "Expiry Date",
+    "cvv": "CVV",
+    "enterCardNumber": "Enter 16-digit card number",
+    "enterExpiry": "MM/YY",
+    "enterCvv": "Enter CVV",
+    "linkSuccess": "ATM card linked successfully!"
+  },
+  "mpin": {
+    "enterMpin": "Enter mPIN",
+    "setMpin": "Set mPIN",
+    "mpin": "mPIN",
+    "enterFourDigit": "Enter 4-digit mPIN",
+    "confirmMpin": "Confirm mPIN",
+    "mpinMismatch": "mPIN does not match",
+    "mpinSet": "mPIN set successfully!",
+    "mpinRequired": "mPIN required for this action"
+  },
+  "voiceAssistant": {
+    "greeting": "How can I help you?",
+    "listening": "Listening...",
+    "processing": "Processing...",
+    "startListening": "Start Listening",
+    "stopListening": "Stop Listening",
+    "sayAgain": "Say Again",
+    "unknownUser": "Unknown user detected. Please say again.",
+    "voiceCheckFailed": "Voice verification failed"
+  },
+  "profile": {
+    "myProfile": "My Profile",
+    "name": "Name",
+    "mobile": "Mobile",
+    "voiceEnrolled": "Voice Enrolled",
+    "atmLinked": "ATM Linked",
+    "mpinSet": "mPIN Set",
+    "memberSince": "Member Since"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "askQuestion": "Ask a question...",
+    "search": "Search"
+  },
+  "errors": {
+    "networkError": "Network error. Please try again.",
+    "voiceError": "Voice recording error. Please try again.",
+    "authError": "Authentication failed",
+    "serverError": "Server error. Please try again later."
+  },
+  "landing": {
+    "heroTitle": "Banking Made Simple with Your Voice",
+    "heroSubtitle": "Experience the future of banking with voice biometric security and AI-powered assistance",
+    "getStarted": "Get Started",
+    "aboutTitle": "About Saarthi",
+    "aboutDescription": "Saarthi is a revolutionary voice-first banking companion that combines cutting-edge voice biometrics with intelligent AI assistance to provide you with the most secure and convenient experience.",
+    "feature1Title": "Voice Biometric Security",
+    "feature1Desc": "Your voice is your password. Secure authentication using advanced voice recognition technology.",
+    "feature2Title": "AI Voice Assistant",
+    "feature2Desc": "Get instant help and perform transactions just by speaking naturally.",
+    "feature3Title": "Bilingual Support",
+    "feature3Desc": "Use the app in English or Hindi - whatever you're comfortable with.",
+    "feature4Title": "Fast & Secure",
+    "feature4Desc": "Quick transactions with bank-grade security powered by AI.",
+    "howItWorks": "How It Works",
+    "step1Title": "Sign Up with Voice",
+    "step1Desc": "Register your unique voice pattern securely",
+    "step2Title": "Link Your ATM",
+    "step2Desc": "Connect your bank account safely",
+    "step3Title": "Set Your mPIN",
+    "step3Desc": "Add an extra layer of security",
+    "step4Title": "Start Banking",
+    "step4Desc": "Use voice commands for all transactions",
+    "ctaTitle": "Ready to Get Started?",
+    "ctaSubtitle": "Join thousands of users experiencing the future of banking",
+    "footer": "© 2024 Saarthi. All rights reserved."
+  }
+}

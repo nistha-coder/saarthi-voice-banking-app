@@ -1,0 +1,39 @@
+{
+  "accounts": [
+    {
+      "mobile": "9876543210",
+      "accountNumber": "1234567890",
+      "balance": 25000,
+      "fds": [
+        {
+          "id": "FD001",
+          "type": "Fixed Deposit",
+          "amount": 100000,
+          "interestRate": 7.5,
+          "maturityDate": "2025-12-31",
+          "status": "active"
+        },
+        {
+          "id": "FD002",
+          "type": "Fixed Deposit",
+          "amount": 50000,
+          "interestRate": 7.0,
+          "maturityDate": "2025-06-30",
+          "status": "active"
+        }
+      ],
+      "loans": [
+        {
+          "id": "LOAN001",
+          "type": "Personal Loan",
+          "amount": 200000,
+          "outstanding": 150000,
+          "interestRate": 10.5,
+          "emi": 5000,
+          "nextDueDate": "2025-02-05",
+          "status": "active"
+        }
+      ]
+    }
+  ]
+}

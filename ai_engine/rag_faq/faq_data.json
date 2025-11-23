@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What is a fixed deposit?",
+    "answer": "A Fixed Deposit (FD) is a savings scheme where you deposit money for a fixed period and earn higher interest than a regular savings account."
+  },
+  {
+    "question": "What is UPI?",
+    "answer": "UPI (Unified Payments Interface) allows instant money transfers between bank accounts using a mobile app."
+  },
+  {
+    "question": "What is NEFT?",
+    "answer": "NEFT (National Electronic Funds Transfer) is a payment system that transfers funds in batches and may take 1–2 hours."
+  },
+  {
+    "question": "Difference between NEFT and UPI?",
+    "answer": "UPI is instant 24/7. NEFT works in batches and may take longer. UPI is better for small quick payments."
+  },
+  {
+    "question": "What is loan tenure?",
+    "answer": "Loan tenure is the total duration for which the loan is borrowed, for example 5 years or 10 years."
+  }
+]

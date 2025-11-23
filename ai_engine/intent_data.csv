@@ -1,0 +1,22 @@
+text,intent
+"what is my balance",check_balance
+"check account balance",check_balance
+"how much money do i have",check_balance
+"show my savings",check_balance
+"balance enquiry",check_balance
+"i want to send money",fund_transfer
+"transfer funds to ramesh",fund_transfer
+"send 500 rupees",fund_transfer
+"pay my electricity bill",bill_payment
+"recharge my mobile",bill_payment
+"pay gas bill",bill_payment
+"what is a fixed deposit",faq_query
+"tell me about neft",faq_query
+"how to apply for loan",faq_query
+"customer care number",faq_query
+"stop my card",block_card
+"block my debit card",block_card
+"lost my wallet",block_card
+"hello",greeting
+"hi saarthi",greeting
+"good morning",greeting
