@@ -6,8 +6,8 @@
 ---
 
 ## 🔗 Quick Links
-- **GitHub Repository:** [Paste Link Here]
-- **Video Demo:** [Paste Link Here]
+
+- **Video Demo:** https://drive.google.com/file/d/1E9HX5dZMQYzE4MgrN53kJ4GSLJpsD5WF/view?usp=drivesdk
 
 ---
 
@@ -84,6 +84,7 @@ Saarthi
 │── client/                        # React frontend (Port 5173)
 │── ml-saarthi/saarthi-ml-api/     # Voice biometrics + NER (Port 5002)
 └── server/                        # Node.js backend (Port 3001)
+```
 
 ⚙️ 5. Installation & Running the Application
 To run Saarthi, you need to start 4 separate services.
