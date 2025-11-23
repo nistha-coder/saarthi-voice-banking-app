@@ -87,6 +87,7 @@ Saarthi
 ```
 
 ⚙️ 5. Installation & Running the Application
+
 To run Saarthi, you need to start 4 separate services.
 Service,Directory,Command,Port
 Frontend,client/,npm run dev,5173
@@ -95,65 +96,86 @@ FAQ/AI Engine,ai_engine/,python app.py,5001
 ML API,ml-saarthi/saarthi-ml-api/,python app.py,5002
 
 ✅ Step 1 — Clone the Project
+
 git clone [https://github.com/your-username/saarthi.git](https://github.com/your-username/saarthi.git)
+
 cd saarthi
 
 ✅ Step 2 — Run Frontend
+
 cd client
+
 npm install
+
 npm run dev
 
 ✅ Step 3 — Run Backend
+
 cd server
+
 npm install
+
 node server.js
 
+
 ✅ Step 4 — Run AI Engine (FAQ + Intent)
+
 cd ai_engine
+
 pip install -r requirements.txt
+
 python app.py
 
+
 ✅ Step 5 — Run ML API (Voice Biometrics + NER)
+
 cd ml-saarthi/saarthi-ml-api
+
 pip install -r requirements.txt
+
 python app.py
 
 🔐 6. Environment Variables Setup
+
 ⚠️ Important: You must create your own .env files. Do NOT upload .env files to GitHub.
 
-✔ Backend Env: server/.env
+
+# ✔ Backend Env: server/.env
+
 Create a file named .env inside the server folder and add:
+
 PORT=3001
+
 NODE_ENV=development
 
-# Authentication
+Authentication
 JWT_SECRET=your-jwt-secret-key
 
-# External AI/ML Services
+External AI/ML Services
 ML_API_URL=http://localhost:5002
 FAQ_API_URL=http://localhost:5001
 
-# CORS
+CORS
 ALLOWED_ORIGINS=http://localhost:5173
 
-# OTP for Demo
+OTP for Demo
 DEMO_OTP=your-demo-otp
 
-# Sessions
+Sessions
 SESSION_SECRET=your-session-secret
 
-# Rate Limiting
+Rate Limiting
 RATE_LIMIT_WINDOW_MS=60000
 RATE_LIMIT_MAX_REQUESTS=100
 
-# Logging
+Logging
 LOG_LEVEL=info
 
-# Google Text-to-Speech Credentials
+Google Text-to-Speech Credentials
 GOOGLE_APPLICATION_CREDENTIALS=./config/google-tts.json
 GOOGLE_PROJECT_ID=your-google-project-id
 
-# Push Notifications (optional)
+Push Notifications (optional)
 VAPID_PUBLIC_KEY=your-vapid-public-key
 VAPID_PRIVATE_KEY=your-vapid-private-key
 EMAIL_FROM=your-email@example.com
