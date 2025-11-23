@@ -1,0 +1,10 @@
+pandas
+scikit-learn
+joblib
+spacy
+flask
+librosa
+SpeechRecognition  
+gTTS               
+pydub              
+requests

@@ -1,0 +1,161 @@
+query,intent,language
+मेरी एफडी निकालो,fd_withdrawal,Hindi
+What's my credit card limit?,credit_limit_inquiry,English
+Service complaint karo,complaint_registration,Hinglish
+Statement dikhana hai,transaction_history,Hinglish
+Take out money from my FD,fd_withdrawal,English
+Tell me the balance in my account.,balance_inquiry,English
+Bill payment ka process kya hai?,bill_payment,Hinglish
+Send funds to Priya,fund_transfer,English
+Send 2500 rupees,fund_transfer,English
+Can you pay my bill?,bill_payment,English
+Pay my gas bill,bill_payment,English
+Galat transaction ki report do,complaint_registration,English
+Details of my loan,loan_inquiry,English
+Mujhe pichli transaction chahiye,transaction_history,English
+Loan repayment ka status batao,loan_inquiry,Hinglish
+Card ki limit dikhayein,credit_limit_inquiry,English
+Show my loan details,loan_inquiry,English
+How to know my credit limit?,credit_limit_inquiry,English
+Fund transfer to Anjali,fund_transfer,English
+Loan status batao,loan_inquiry,Hinglish
+Loan balance batao,loan_inquiry,Hinglish
+Customer care se complaint karni hai,complaint_registration,Hinglish
+Last 5 transaction statement,transaction_history,English
+Loan ki information chahiye,loan_inquiry,English
+Mera paisa transfer karo,fund_transfer,Hinglish
+Last few transactions dikhayein,transaction_history,English
+Credit limit kaise dekhein?,credit_limit_inquiry,Hinglish
+Mujhe paise bhejne hain,fund_transfer,Hinglish
+मेरा क्रेडिट कार्ड लिमिट कितना है?,credit_limit_inquiry,Hindi
+Credit card ka limit check karo,credit_limit_inquiry,Hinglish
+Loan ki details dikhayein,loan_inquiry,English
+Mein apne account ki history dekhna chahta hoon,transaction_history,English
+How to withdraw FD?,fd_withdrawal,English
+Send money to this account,fund_transfer,English
+Pending loans batao,loan_inquiry,Hinglish
+Loan status check karo,loan_inquiry,Hinglish
+How to transfer money?,fund_transfer,English
+Withdraw my fixed deposit,fd_withdrawal,English
+Credit card ka limit batao,credit_limit_inquiry,Hinglish
+Get my fixed deposit refunded,fd_withdrawal,English
+Balance galat hai,complaint_registration,Hinglish
+Transfer ₹5000 to my other account,fund_transfer,English
+Kitna paisa hai mere khate mein?,balance_inquiry,Hinglish
+Recent transaction history,transaction_history,English
+Internet bill bharna hai,bill_payment,Hinglish
+Show recent transactions,transaction_history,English
+Report false debit,complaint_registration,English
+Check credit card limit,credit_limit_inquiry,English
+Bill pay karo,bill_payment,Hinglish
+Show account records,transaction_history,English
+Loan par interest kitna hai?,loan_inquiry,Hinglish
+FD maturity ke baad paisa kaise milega?,fd_withdrawal,Hinglish
+एफडी कैसे निकालूं?,fd_withdrawal,Hindi
+मेरा अकाउंट बैलेंस कितना है?,balance_inquiry,Hindi
+Credit limit dekhao,credit_limit_inquiry,English
+FD nikalni hai,fd_withdrawal,Hinglish
+Limit kya hai,credit_limit_inquiry,Hinglish
+Bank ki shikayat darj karo,complaint_registration,Hinglish
+Loan inquiry karna hai,loan_inquiry,Hinglish
+Transaction dispute file karo,complaint_registration,Hinglish
+What is my credit limit?,credit_limit_inquiry,English
+How do I lodge a complaint?,complaint_registration,English
+Loan EMI ka kya status hai?,loan_inquiry,Hinglish
+FD withdrawal karni hai,fd_withdrawal,Hinglish
+Ramesh ko paisa bhejo,fund_transfer,English
+Can you show my available funds?,balance_inquiry,English
+Transfer funds,fund_transfer,English
+Raise a complaint,complaint_registration,English
+Past transactions dikhao,transaction_history,Hinglish
+Bijli ka bill jama karo,bill_payment,Hinglish
+Shikayat darj karo,complaint_registration,Hinglish
+Mera account balance kitna hai?,balance_inquiry,Hinglish
+Pay rent,bill_payment,English
+Credit limit inquiry karni hai,credit_limit_inquiry,Hinglish
+Show me my balance.,balance_inquiry,English
+FD withdraw karna hai,fd_withdrawal,Hinglish
+Check my loan status,loan_inquiry,English
+Kisi aur ko paise bhejo,fund_transfer,English
+Balance kitna hai mere account mein?,balance_inquiry,Hinglish
+Submit complaint,complaint_registration,English
+Credit limit bataiye,credit_limit_inquiry,English
+Transaction details batao,transaction_history,Hinglish
+Loan ka status dikhayein,loan_inquiry,English
+Mera card limit kitna hai?,credit_limit_inquiry,Hinglish
+बिजली का बिल जमा करो,bill_payment,Hindi
+Statement kaise dekhein?,transaction_history,Hinglish
+Credit card limit details,credit_limit_inquiry,English
+Loan par kitna paisa mila?,loan_inquiry,Hinglish
+Mein pichli 10 transactions dekhna chahta hoon,transaction_history,English
+FD se paisa nikaalo,fd_withdrawal,Hinglish
+FD close karo,fd_withdrawal,Hinglish
+Refund my FD,fd_withdrawal,English
+Remove my FD,fd_withdrawal,English
+Account balance dikhayein,balance_inquiry,English
+Mere account mein kitna paisa hai?,balance_inquiry,Hinglish
+Mera phone bill bhar do,bill_payment,Hinglish
+Can I close my fixed deposit early?,fd_withdrawal,English
+Send ₹2000 to Ramesh,fund_transfer,English
+Report a lost card,complaint_registration,English
+Account balance chahiye,balance_inquiry,English
+Complain about mobile app,complaint_registration,English
+Show my last 5 transactions,transaction_history,English
+Can I withdraw my FD?,fd_withdrawal,English
+मेरा लोन स्टेटस बताओ,loan_inquiry,Hindi
+Fund transfer kaise karein?,fund_transfer,Hinglish
+Loan application ka kya hua?,loan_inquiry,English
+Card limit batao,credit_limit_inquiry,Hinglish
+What is my account balance?,balance_inquiry,English
+पिछली ट्रांजेक्शन दिखाओ,transaction_history,Hindi
+मुझे मेरे खाते का बैलेंस जानना है,balance_inquiry,Hindi
+Mera bijli bill jama karo,bill_payment,Hinglish
+Loan application status,loan_inquiry,English
+I want to withdraw my FD.,fd_withdrawal,English
+Electric bill payment kaise karein?,bill_payment,Hinglish
+Statement mangwana hai,transaction_history,Hinglish
+Statement error complain,complaint_registration,English
+गलत बैलेंस की शिकायत करो,complaint_registration,Hindi
+Anjali ko ₹500 bhejo,fund_transfer,English
+Credit card par kitna paisa mil sakta hai?,credit_limit_inquiry,Hinglish
+Amount transfer karna hai,fund_transfer,Hinglish
+FD withdraw ka process kya hai?,fd_withdrawal,Hinglish
+Raise a complaint about wrong balance,complaint_registration,English
+Amount send karna hai,fund_transfer,Hinglish
+How to check my account balance?,balance_inquiry,English
+Account history show karo,transaction_history,Hinglish
+How to view transaction history?,transaction_history,English
+Pichli 10 transactions dikhao,transaction_history,Hinglish
+Balance dekhao,balance_inquiry,English
+रमेश को ₹2000 भेजो,fund_transfer,Hindi
+Bill ki payment karo,bill_payment,Hinglish
+Limit inquiry,credit_limit_inquiry,English
+Phone bill jama karo,bill_payment,Hinglish
+Make a payment to Shreya,fund_transfer,English
+Bill jama karna hai,bill_payment,Hinglish
+Rent ki payment karo,bill_payment,Hinglish
+बचत खाते में कितना पैसा है?,balance_inquiry,Hindi
+Account ki pichli transactions,transaction_history,English
+मुझे ₹2000 अपने खाते में ट्रांसफर करना है,fund_transfer,Hindi
+Mera loan kitna hai?,loan_inquiry,Hinglish
+Account mein balance kitna hai?,balance_inquiry,Hinglish
+Pay water bill,bill_payment,English
+Wrong balance complaint karni hai,complaint_registration,Hinglish
+Available balance batao,balance_inquiry,Hinglish
+Withdraw funds from fixed deposit,fd_withdrawal,English
+Pay phone bill,bill_payment,English
+Galat balance ki complaint karo,complaint_registration,Hinglish
+Complaint form bharna hai,complaint_registration,Hinglish
+Card limit kitna hai,credit_limit_inquiry,Hinglish
+Account transfer chahiye,fund_transfer,English
+Show monthly statement,transaction_history,English
+Pay internet bill,bill_payment,English
+I want FD amount back,fd_withdrawal,English
+Complain about unauthorized transaction,complaint_registration,English
+How much money do I have?,balance_inquiry,English
+Show my credit card limit,credit_limit_inquiry,English
+Loan amount batao,loan_inquiry,Hinglish
+Pay my electricity bill,bill_payment,English
+Balance kaise pata chalega?,balance_inquiry,Hinglish
+बैलेंस बताओ,balance_inquiry,Hindi
+Gas bill payment chahiye,bill_payment,English

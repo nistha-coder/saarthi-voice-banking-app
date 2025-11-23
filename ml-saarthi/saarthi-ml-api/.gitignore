@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated data
+data/
+*.spacy
+
+# Generated voiceprints
+voiceprints/
+
+# Environment
+.venv/
+
+# Audio test/response files
+test_audio.wav
+response.mp3

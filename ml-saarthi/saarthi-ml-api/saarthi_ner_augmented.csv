@@ -1,0 +1,337 @@
+sentence,token,label
+Suresh paid 5000 for rent,rent,B-BILL_TYPE
+Pay my phone bill,my,O
+Ramesh paid 5000 for rent,for,O
+Send ₹1000 to Ramesh,Send,O
+Show last 5000 transactions,₹320,O
+Withdraw my FD last week,my,O
+Suresh को ₹200 भेजो,Priya,B-PERSON
+Alok paid ₹750 for rent,10 lakh,B-AMOUNT
+FD nikalni hai Rahul ke liye,ke,O
+मेरा phone का बिल जमा करो,का,O
+I paid ₹200 for water last week,last,B-DATE
+Pay my rent bill,Pay,O
+मेरा water का बिल जमा करो,बिल,I-BILL_TYPE
+Anjali paid ₹2500 for rent,Anjali,B-PERSON
+current nikalni hai Rahul ke liye,hai,O
+Pay my phone bill,my,O
+Send ₹200 to Rahul,Send,O
+Pay my phone bill,Pay,O
+Withdraw my joint पिछले महीने,Withdraw,O
+Show last ₹750 transactions,transactions,O
+Show last ₹1000 transactions,last,B-AMOUNT
+काल savings निकालना है,काल,B-DATE
+Ramesh paid ₹1000 for rent,paid,O
+Pay my electricity bill,Pay,O
+Neha को ₹200 भेजो,भेजो,O
+Suresh paid 5000 for rent,5000,B-AMOUNT
+काल savings निकालना है,निकालना,O
+Pay my rent bill,bill,I-BILL_TYPE
+current nikalni hai Rahul ke liye,nikalni,O
+Ramesh paid ₹1000 for rent,₹8600,B-AMOUNT
+Withdraw my FD कल,Withdraw,O
+मेरा phone का बिल जमा करो,rent,B-BILL_TYPE
+Withdraw my current कल,Withdraw,O
+I paid ₹200 for water last week,week,I-DATE
+I paid ₹1000 for electricity last week,paid,O
+मेरा water का बिल जमा करो,करो,O
+मेरा water का बिल जमा करो,करो,O
+I paid ₹200 for water last week,for,O
+Amit को 10 lakh भेजो,₹320,B-AMOUNT
+मेरा water का बिल जमा करो,का,O
+Send ₹1000 to Anjali,10 lakh,B-AMOUNT
+FD nikalni hai Amit ke liye,liye,O
+savings nikalni hai Rahul ke liye,savings,B-ACCOUNT
+मेरा water का बिल जमा करो,rent,B-BILL_TYPE
+Priya को ₹1000 भेजो,को,O
+savings nikalni hai Alok ke liye,hai,O
+Send ₹1000 to Anjali,to,O
+Amit को 10 lakh भेजो,Suresh,B-PERSON
+I paid 10 lakh for internet last week,₹8600,B-AMOUNT
+काल joint निकालना है,निकालना,O
+current nikalni hai Suresh ke liye,Alok,B-PERSON
+Send ₹1000 to Neha,to,O
+काल savings निकालना है,काल,B-DATE
+Withdraw my FD कल,yesterday,B-DATE
+FD nikalni hai Amit ke liye,ke,O
+Send ₹200 to Neha,Send,O
+Priya को ₹1000 भेजो,₹2500,B-AMOUNT
+Alok paid ₹750 for rent,paid,O
+मेरा water का बिल जमा करो,internet,B-BILL_TYPE
+Pay my phone bill,Pay,O
+काल FD निकालना है,काल,B-DATE
+Pay my phone bill,electricity,B-BILL_TYPE
+Pay my phone bill,bill,I-BILL_TYPE
+I paid ₹2500 for internet last week,I,O
+I paid ₹2500 for internet last week,paid,O
+Pay my phone bill,my,O
+FD nikalni hai Rahul ke liye,hai,O
+Rahul को 10 lakh भेजो,भेजो,O
+I paid 10 lakh for internet last week,for,O
+Ramesh paid 5000 for rent,5000,B-AMOUNT
+FD nikalni hai Rahul ke liye,Rahul,B-PERSON
+Show last ₹1000 transactions,₹200,O
+I paid ₹2500 for internet last week,last,B-DATE
+I paid ₹1000 for electricity last week,for,O
+savings nikalni hai Alok ke liye,joint,B-ACCOUNT
+Send 10 lakh to Neha,₹750,B-AMOUNT
+current nikalni hai Rahul ke liye,ke,O
+Withdraw my savings अब,12 Nov,B-DATE
+I paid 5000 for water last week,water,B-BILL_TYPE
+I paid ₹2500 for internet last week,week,I-DATE
+Withdraw my joint पिछले महीने,my,O
+FD nikalni hai Amit ke liye,hai,O
+Withdraw my FD last week,current,B-ACCOUNT
+Suresh paid 5000 for rent,for,O
+Show last ₹750 transactions,Show,O
+current nikalni hai Suresh ke liye,hai,O
+Priya को ₹1000 भेजो,Neha,B-PERSON
+काल FD निकालना है,है,O
+काल savings निकालना है,savings,B-ACCOUNT
+काल joint निकालना है,savings,B-ACCOUNT
+I paid 10 lakh for internet last week,paid,O
+Show last 5000 transactions,last,B-AMOUNT
+Send ₹200 to Rahul,Anjali,B-PERSON
+I paid 10 lakh for internet last week,I,O
+मेरा phone का बिल जमा करो,जमा,O
+मेरा water का बिल जमा करो,मेरा,O
+Send ₹320 to Anjali,to,O
+मेरा water का बिल जमा करो,जमा,O
+मेरा internet का बिल जमा करो,जमा,O
+I paid ₹750 for electricity last week,phone,B-BILL_TYPE
+FD nikalni hai Rahul ke liye,FD,B-ACCOUNT
+Show last 5000 transactions,₹200,O
+current nikalni hai Rahul ke liye,Amit,B-PERSON
+I paid ₹2500 for internet last week,school,B-BILL_TYPE
+I paid 5000 for water last week,week,I-DATE
+current nikalni hai Suresh ke liye,nikalni,O
+Amit paid ₹320 for rent,paid,O
+Pay my internet bill,Pay,O
+मेरा water का बिल जमा करो,जमा,O
+Show last ₹750 transactions,last,B-AMOUNT
+Withdraw my current कल,savings,B-ACCOUNT
+I paid ₹1000 for electricity last week,I,O
+Ramesh paid ₹1000 for rent,rent,B-BILL_TYPE
+मेरा water का बिल जमा करो,जमा,O
+Send ₹1000 to Anjali,Send,O
+current nikalni hai Rahul ke liye,ke,O
+Send ₹1000 to Anjali,Priya,B-PERSON
+काल savings निकालना है,है,O
+मेरा internet का बिल जमा करो,phone,B-BILL_TYPE
+I paid ₹750 for phone last week,I,O
+Send ₹200 to Neha,₹2500,B-AMOUNT
+Ramesh paid 5000 for rent,Priya,B-PERSON
+I paid 5000 for water last week,last,B-DATE
+Show last ₹1000 transactions,transactions,O
+Pay my internet bill,my,O
+FD nikalni hai Rahul ke liye,liye,O
+मेरा phone का बिल जमा करो,का,O
+Neha को ₹200 भेजो,Suresh,B-PERSON
+Send ₹1000 to Neha,Suresh,B-PERSON
+मेरा water का बिल जमा करो,का,O
+I paid 5000 for water last week,I,O
+savings nikalni hai Rahul ke liye,ke,O
+I paid 5000 for water last week,for,O
+मेरा school का बिल जमा करो,का,O
+Withdraw my current पिछले महीने,my,O
+Pay my rent bill,electricity,B-BILL_TYPE
+Show last ₹8600 transactions,Show,O
+I paid ₹750 for phone last week,week,I-DATE
+current nikalni hai Rahul ke liye,liye,O
+मेरा water का बिल जमा करो,करो,O
+Send 10 lakh to Neha,to,O
+Send ₹200 to Neha,Ramesh,B-PERSON
+मेरा water का बिल जमा करो,का,O
+Alok paid ₹750 for rent,Rahul,B-PERSON
+मेरा water का बिल जमा करो,मेरा,O
+Ramesh paid ₹1000 for rent,Anjali,B-PERSON
+Show last ₹8600 transactions,₹320,O
+Send ₹1000 to Ramesh,₹200,B-AMOUNT
+Send ₹320 to Anjali,Neha,B-PERSON
+काल FD निकालना है,current,B-ACCOUNT
+savings nikalni hai Rahul ke liye,Neha,B-PERSON
+Send ₹1000 to Ramesh,to,O
+Show last 5000 transactions,transactions,O
+Suresh को ₹200 भेजो,को,O
+Suresh को ₹200 भेजो,₹1000,B-AMOUNT
+Neha को ₹200 भेजो,10 lakh,B-AMOUNT
+Withdraw my savings 12 Nov,my,O
+मेरा school का बिल जमा करो,बिल,I-BILL_TYPE
+Show last ₹1000 transactions,last,B-AMOUNT
+Show last ₹1000 transactions,last,B-AMOUNT
+Pay my phone bill,rent,B-BILL_TYPE
+Withdraw my savings अब,joint,B-ACCOUNT
+Send ₹320 to Anjali,₹2500,B-AMOUNT
+Show last ₹1000 transactions,transactions,O
+मेरा school का बिल जमा करो,जमा,O
+मेरा phone का बिल जमा करो,school,B-BILL_TYPE
+Show last ₹1000 transactions,Show,O
+Amit paid ₹320 for rent,rent,B-BILL_TYPE
+savings nikalni hai Alok ke liye,Anjali,B-PERSON
+Pay my internet bill,bill,I-BILL_TYPE
+Alok paid ₹750 for rent,for,O
+Anjali को ₹750 भेजो,5000,B-AMOUNT
+Withdraw my savings अब,my,O
+I paid ₹200 for water last week,I,O
+Rahul को 10 lakh भेजो,₹2500,B-AMOUNT
+I paid 10 lakh for internet last week,week,I-DATE
+Anjali को ₹750 भेजो,को,O
+current nikalni hai Rahul ke liye,savings,B-ACCOUNT
+Withdraw my savings 12 Nov,yesterday,B-DATE
+Withdraw my savings 12 Nov,current,B-ACCOUNT
+Send ₹1000 to Ramesh,Neha,B-PERSON
+Withdraw my FD last week,कल,B-DATE
+Priya paid ₹2500 for rent,Amit,B-PERSON
+Priya paid ₹2500 for rent,rent,B-BILL_TYPE
+Withdraw my joint पिछले महीने,joint,B-ACCOUNT
+Withdraw my savings अब,Withdraw,O
+Withdraw my savings 12 Nov,Withdraw,O
+I paid ₹750 for electricity last week,paid,O
+I paid ₹200 for water last week,phone,B-BILL_TYPE
+काल FD निकालना है,निकालना,O
+काल joint निकालना है,है,O
+Show last 5000 transactions,Show,O
+Withdraw my FD last week,Withdraw,O
+Send 10 lakh to Neha,Send,O
+काल savings निकालना है,joint,B-ACCOUNT
+काल savings निकालना है,joint,B-ACCOUNT
+FD nikalni hai Amit ke liye,FD,B-ACCOUNT
+I paid ₹750 for phone last week,paid,O
+Amit paid ₹320 for rent,Rahul,B-PERSON
+current nikalni hai Rahul ke liye,current,B-ACCOUNT
+I paid ₹2500 for internet last week,₹2500,B-AMOUNT
+I paid ₹750 for electricity last week,for,O
+Withdraw my current पिछले महीने,कल,B-DATE
+Withdraw my FD कल,my,O
+मेरा phone का बिल जमा करो,जमा,O
+काल joint निकालना है,काल,B-DATE
+Show last ₹750 transactions,5000,O
+Withdraw my FD कल,savings,B-ACCOUNT
+I paid ₹200 for water last week,paid,O
+काल savings निकालना है,है,O
+Priya paid ₹2500 for rent,for,O
+Amit paid ₹320 for rent,₹750,B-AMOUNT
+Send ₹320 to Anjali,Send,O
+मेरा school का बिल जमा करो,electricity,B-BILL_TYPE
+Pay my phone bill,gas,B-BILL_TYPE
+savings nikalni hai Alok ke liye,nikalni,O
+मेरा phone का बिल जमा करो,बिल,I-BILL_TYPE
+Show last 5000 transactions,transactions,O
+Send ₹1000 to Neha,5000,B-AMOUNT
+काल savings निकालना है,है,O
+I paid ₹1000 for electricity last week,gas,B-BILL_TYPE
+मेरा water का बिल जमा करो,phone,B-BILL_TYPE
+काल savings निकालना है,काल,B-DATE
+Neha को ₹200 भेजो,को,O
+काल savings निकालना है,निकालना,O
+I paid ₹750 for electricity last week,last,B-DATE
+Priya paid ₹2500 for rent,₹320,B-AMOUNT
+current nikalni hai Rahul ke liye,nikalni,O
+I paid ₹1000 for electricity last week,₹750,B-AMOUNT
+I paid ₹750 for electricity last week,I,O
+FD nikalni hai Amit ke liye,nikalni,O
+Amit को 10 lakh भेजो,भेजो,O
+मेरा internet का बिल जमा करो,का,O
+savings nikalni hai Alok ke liye,ke,O
+current nikalni hai Rahul ke liye,Amit,B-PERSON
+Pay my rent bill,my,O
+savings nikalni hai Rahul ke liye,nikalni,O
+Withdraw my current पिछले महीने,FD,B-ACCOUNT
+Show last ₹1000 transactions,5000,O
+Anjali paid ₹2500 for rent,for,O
+काल FD निकालना है,काल,B-DATE
+Send ₹200 to Neha,to,O
+Pay my phone bill,Pay,O
+मेरा water का बिल जमा करो,मेरा,O
+I paid ₹200 for water last week,₹750,B-AMOUNT
+काल savings निकालना है,निकालना,O
+Pay my rent bill,Pay,O
+I paid ₹750 for phone last week,last,B-DATE
+current nikalni hai Suresh ke liye,ke,O
+Send 10 lakh to Neha,Rahul,B-PERSON
+Pay my electricity bill,my,O
+I paid 5000 for water last week,₹750,B-AMOUNT
+FD nikalni hai Amit ke liye,Neha,B-PERSON
+Anjali paid ₹2500 for rent,paid,O
+current nikalni hai Suresh ke liye,liye,O
+I paid 10 lakh for internet last week,internet,B-BILL_TYPE
+FD nikalni hai Rahul ke liye,nikalni,O
+Rahul को 10 lakh भेजो,₹1000,B-AMOUNT
+मेरा internet का बिल जमा करो,बिल,I-BILL_TYPE
+Pay my phone bill,bill,I-BILL_TYPE
+Pay my rent bill,school,B-BILL_TYPE
+काल FD निकालना है,savings,B-ACCOUNT
+Pay my rent bill,bill,I-BILL_TYPE
+current nikalni hai Suresh ke liye,joint,B-ACCOUNT
+Send ₹200 to Rahul,to,O
+मेरा phone का बिल जमा करो,मेरा,O
+काल FD निकालना है,निकालना,O
+Pay my internet bill,phone,B-BILL_TYPE
+Pay my rent bill,my,O
+Amit को 10 lakh भेजो,को,O
+Rahul को 10 lakh भेजो,Rahul,B-PERSON
+I paid ₹750 for phone last week,5000,B-AMOUNT
+current nikalni hai Rahul ke liye,hai,O
+Amit paid ₹320 for rent,for,O
+I paid 5000 for water last week,paid,O
+Withdraw my current कल,last week,B-DATE
+Withdraw my joint पिछले महीने,today,B-DATE
+Anjali को ₹750 भेजो,भेजो,O
+Suresh paid 5000 for rent,Neha,B-PERSON
+Rahul को 10 lakh भेजो,Alok,B-PERSON
+मेरा phone का बिल जमा करो,मेरा,O
+Show last 5000 transactions,last,B-AMOUNT
+काल FD निकालना है,joint,B-ACCOUNT
+मेरा internet का बिल जमा करो,करो,O
+Show last ₹1000 transactions,transactions,O
+Withdraw my current पिछले महीने,Withdraw,O
+Withdraw my current कल,my,O
+Priya paid ₹2500 for rent,paid,O
+काल FD निकालना है,है,O
+Show last ₹8600 transactions,transactions,O
+I paid ₹750 for electricity last week,week,I-DATE
+savings nikalni hai Alok ke liye,liye,O
+I paid ₹1000 for electricity last week,week,I-DATE
+Pay my phone bill,bill,I-BILL_TYPE
+मेरा school का बिल जमा करो,मेरा,O
+Suresh paid 5000 for rent,paid,O
+Show last 5000 transactions,Show,O
+Pay my electricity bill,bill,I-BILL_TYPE
+मेरा phone का बिल जमा करो,बिल,I-BILL_TYPE
+मेरा water का बिल जमा करो,बिल,I-BILL_TYPE
+I paid 10 lakh for internet last week,last,B-DATE
+Rahul को 10 lakh भेजो,को,O
+Ramesh paid ₹1000 for rent,for,O
+काल FD निकालना है,है,O
+Show last ₹8600 transactions,last,B-AMOUNT
+काल FD निकालना है,काल,B-DATE
+Send ₹1000 to Neha,Send,O
+Show last ₹1000 transactions,Show,O
+काल FD निकालना है,निकालना,O
+Rahul को 10 lakh भेजो,भेजो,O
+मेरा phone का बिल जमा करो,करो,O
+I paid ₹2500 for internet last week,for,O
+I paid ₹750 for phone last week,for,O
+Alok paid ₹750 for rent,rent,B-BILL_TYPE
+Anjali को ₹750 भेजो,Priya,B-PERSON
+Show last ₹1000 transactions,Show,O
+Anjali paid ₹2500 for rent,rent,B-BILL_TYPE
+Ramesh paid 5000 for rent,rent,B-BILL_TYPE
+Priya को ₹1000 भेजो,भेजो,O
+Show last ₹1000 transactions,₹750,O
+I paid ₹750 for electricity last week,₹750,B-AMOUNT
+मेरा internet का बिल जमा करो,मेरा,O
+मेरा school का बिल जमा करो,करो,O
+Pay my electricity bill,electricity,B-BILL_TYPE
+savings nikalni hai Rahul ke liye,liye,O
+मेरा phone का बिल जमा करो,करो,O
+I paid ₹750 for phone last week,electricity,B-BILL_TYPE
+मेरा water का बिल जमा करो,बिल,I-BILL_TYPE
+Suresh को ₹200 भेजो,भेजो,O
+Anjali paid ₹2500 for rent,₹8600,B-AMOUNT
+Rahul को 10 lakh भेजो,को,O
+I paid ₹1000 for electricity last week,last,B-DATE
+savings nikalni hai Rahul ke liye,hai,O
+Ramesh paid 5000 for rent,paid,O
+Send ₹200 to Rahul,₹750,B-AMOUNT
+current nikalni hai Rahul ke liye,liye,O

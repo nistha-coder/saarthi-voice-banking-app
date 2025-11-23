@@ -1,0 +1,5 @@
+[
+  { "question": "how to link atm", "answer": "Go to Settings > Link ATM > enter card details."},
+  { "question": "how to set mpin", "answer": "Go to Settings > Set mPIN > enter 4-digit PIN."},
+  { "question": "upi id kya hota hai", "answer": "UPI ID is your payment address, like user@saarthi."}
+]
